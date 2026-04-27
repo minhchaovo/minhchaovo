@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a passionate **Full-Stack Developer** currently pursuing a Bachelor's in Computer Science.
+I'm a **Full-Stack Developer** currently pursuing a Bachelor's in Computer Science.
 
 - 🌱 Currently improving my full-stack skills
 - 🎯 Actively seeking **Full-Stack Developer** opportunities
