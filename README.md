@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer** currently pursuing a Bachelor's in Computer Scien
 ### 🛠️ Technical Skills
 
 **Languages & Frameworks**
-- **Frontend**: React, React Router, HTML, CSS, JavaScript, Recharts
+- **Frontend**: React, HTML, CSS, JavaScript, Recharts
 - **Backend**: Java, Spring Boot, Spring Data JPA
 - **Databases**: SQL Server, MySQL
 - **Other**: Python, C/C++, Git, Linux, Axios, Figma (UI/UX Design)
