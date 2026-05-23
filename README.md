@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** currently pursuing a Bachelor's in Computer Scien
 
 **Languages**: Vietnamese (Native) • English (IELTS 7.0)
 
-<!-- comment -->### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhchaovo&layout=compact&theme=radical&hide_border=true) --> 
 
